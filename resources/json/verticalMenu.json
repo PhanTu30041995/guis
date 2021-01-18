@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "url": "dashboard",
+      "name": "Dashboard",
+      "slug": "dashboard",
+      "badgeClass": "badge badge-warning badge-pill float-right mr-2",
+      "icon": "feather icon-home"
+    },
+    {
+      "url": "notify-list",
+      "name": "Notify",
+      "icon": "feather icon-bell",
+      "i18n": "nav.notify-list"
+    },
+    {
+      "url": "file-manager",
+      "name": "File Manager",
+      "icon": "feather icon-save",
+      "i18n": "nav.file-manager"
+    }
+  ]
+}

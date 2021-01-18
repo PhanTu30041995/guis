@@ -1,0 +1,40 @@
+{
+  "menu": [
+    {
+      "url": "dashboard",
+      "name": "Dashboard",
+      "slug": "dashboard",
+      "badgeClass": "badge badge-warning badge-pill float-right mr-2",
+      "icon": "feather icon-home"
+    },
+    {
+      "url": "notify-list",
+      "name": "Notify",
+      "icon": "feather icon-bell",
+      "i18n": "nav.notify-list"
+    },
+    {
+      "url": "",
+      "navheader": "User Management",
+      "icon": ""
+    },
+    {
+      "url": "app-user-list",
+      "name": "User",
+      "icon": "feather icon-unlock",
+      "i18n": "nav.app-user-list"
+    },
+    {
+      "url": "permissions-list",
+      "name": "Permissions",
+      "icon": "feather icon-lock",
+      "i18n": "nav.permissions-list"
+    },
+    {
+      "url": "roles-list",
+      "name": "Roles",
+      "icon": "feather icon-user",
+      "i18n": "nav.roles-list-list"
+    }
+  ]
+}
